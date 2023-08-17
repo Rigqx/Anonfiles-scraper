@@ -1,5 +1,4 @@
-```
-```
+
 # AnonFiles Link Scraper and Leecher
 
 ![Python Version](https://img.shields.io/badge/python-3.x-blue.svg)
