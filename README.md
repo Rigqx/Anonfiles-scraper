@@ -59,7 +59,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgments
 
-- The tool was made for fun, to get a long list of files that exsists on AnonFiles, to see what people are uploading.
+- The tool was made for fun, to get a long list of files that exists on AnonFiles, to see what people are uploading.
 
 ---
 
