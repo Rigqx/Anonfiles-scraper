@@ -1,4 +1,3 @@
-
 # AnonFiles Link Scraper and Leecher
 
 ![Python Version](https://img.shields.io/badge/python-3.x-blue.svg)
@@ -65,5 +64,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 Take control of your file interactions with the AnonFiles Scraper. Generate, validate, and leech files effortlessly. Happy scraping and leeching! 🚀
-```
-```
